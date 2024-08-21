@@ -10,3 +10,46 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# sidebar
+sidebar-container:
+  - title: "Container"
+    children:
+      - title: "Docker"
+        url: /Docker
+      - title: "Kubernetes"
+        url: /kubernetes-1
+
+sidebar-os:
+  - title: "OS"
+    children:
+      - title: "Linux"
+        url: /linux
+
+sidebar-programming:
+  - title: "Programming"
+    children:
+      - title: "Shell Script"
+        url: /shell-script
+      - title: "Python"
+        url: /python-1
+      - title: "Java"
+        url: /Java-1
+
+sidebar-database:
+  - title: "Database"
+    children:
+      - title: "Kafka"
+        url: /kafka
+
+sidebar-cs:
+  - title: "CS"
+    children:
+      - title: "가상 면접 사례로 배우는 대규모 시스템 설계 기초"
+        url: /cs-1
+
+sidebar-etc:
+  - title: "ETC"
+    children:
+      - title: "Tool"
+        url: /tool
