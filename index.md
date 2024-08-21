@@ -11,7 +11,7 @@ sidebar:
   - nav: sidebar-etc
 ---
 
-# RODUSIKI WIKI입니당~!
+# WIKI입니당~!
 
 
 
